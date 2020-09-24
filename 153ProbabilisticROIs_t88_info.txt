@@ -1,0 +1,154 @@
+ROI number	x	y	z	Net. Name	Net. WB Label	Peak Prob.
+1	-55	-24	-14	Default Mode	1	84.058
+2	-29	-12	-33	Medial Temporal	14	92.754
+3	-23	-93	-15	Visual	2	92.754
+4	-11	-93	-15	Visual	2	95.652
+5	8	-90	-9	Visual	2	95.652
+6	17	-30	-15	Parieto-occipital	16	89.855
+7	20	-90	-15	Visual	2	92.754
+8	32	-15	-30	Medial Temporal	14	89.855
+9	-49	-25	41	Somatomotor- Dorsal	10	89.855
+10	-44	-31	44	Somatomotor- Dorsal	10	95.652
+11	-39	-22	52	Somatomotor- Dorsal	10	100
+12	-38	-30	66	Somatomotor- Dorsal	10	98.551
+13	-38	-18	66	Somatomotor- Dorsal	10	95.652
+14	-29	-45	57	Somatomotor- Dorsal	10	88.406
+15	-23	-33	69	Somatomotor- Dorsal	10	100
+16	-21	-34	58	Somatomotor- Dorsal	10	98.551
+17	-17	-48	69	Somatomotor- Dorsal	10	92.754
+18	-14	-21	72	Somatomotor- Dorsal	10	98.551
+19	-8	-24	63	Somatomotor- Dorsal	10	100
+20	-8	-36	69	Somatomotor- Dorsal	10	97.101
+21	-1	-18	49	Somatomotor- Dorsal	10	100
+22	1	-31	58	Somatomotor- Dorsal	10	100
+23	2	-21	57	Somatomotor- Dorsal	10	100
+24	11	-6	45	Somatomotor- Dorsal	10	89.855
+25	8	-48	69	Somatomotor- Dorsal	10	89.855
+26	8	-21	72	Somatomotor- Dorsal	10	97.101
+27	11	-36	72	Somatomotor- Dorsal	10	98.551
+28	18	-32	58	Somatomotor- Dorsal	10	97.101
+29	20	-45	66	Somatomotor- Dorsal	10	89.855
+30	26	-21	69	Somatomotor- Dorsal	10	100
+31	26	-42	57	Somatomotor- Dorsal	10	97.101
+32	35	-21	45	Somatomotor- Dorsal	10	98.551
+33	39	-24	54	Somatomotor- Dorsal	10	100
+34	47	-24	45	Somatomotor- Dorsal	10	94.203
+35	-51	-13	24	Somatomotor- Lateral	11	91.304
+36	-48	-14	34	Somatomotor- Lateral	11	88.406
+37	48	-10	34	Somatomotor- Lateral	11	86.957
+38	62	-12	27	Somatomotor- Lateral	11	88.406
+39	-49	5	0	Cingulo-opercular	9	98.551
+40	-43	0	10	Cingulo-opercular	9	92.754
+41	-33	0	6	Cingulo-opercular	9	98.551
+42	-6	13	36	Cingulo-opercular	9	98.551
+43	-4	1	53	Cingulo-opercular	9	92.754
+44	5	3	51	Cingulo-opercular	9	91.304
+45	17	-15	63	Somatomotor- Dorsal	10	91.304
+46	34	6	5	Cingulo-opercular	9	100
+47	35	0	0	Cingulo-opercular	9	97.101
+48	47	4	3	Cingulo-opercular	9	100
+49	-58	-27	10	Auditory	12	79.71
+50	-47	-28	5	Auditory	12	100
+51	-37	-35	16	Auditory	12	89.855
+52	-29	-29	12	Auditory	12	89.855
+53	30	-32	14	Auditory	12	89.855
+54	55	-19	10	Auditory	12	86.957
+55	62	-36	24	Cingulo-opercular	9	94.203
+56	-65	-24	-15	Default Mode	1	85.507
+57	-47	-43	0	Ventral Attention	7	89.855
+58	-47	-61	18	Default Mode	1	94.203
+59	-43	-65	31	Default Mode	1	98.551
+60	-38	-75	39	Default Mode	1	98.551
+61	-35	15	51	Default Mode	1	86.957
+62	-32	-39	-15	Parieto-occipital	16	91.304
+63	-25	-41	-8	Parieto-occipital	16	95.652
+64	-20	39	42	Default Mode	1	95.652
+65	-20	57	24	Default Mode	1	89.855
+66	-17	23	54	Default Mode	1	89.855
+67	-12	-41	4	Parieto-occipital	16	88.406
+68	-8	-57	14	Default Mode	1	95.652
+69	-11	33	54	Default Mode	1	98.551
+70	-11	48	42	Default Mode	1	94.203
+71	-8	42	27	Default Mode	1	94.203
+72	-7	-56	25	Default Mode	1	100
+73	-4	45	4	Default Mode	1	85.507
+74	-3	-53	12	Default Mode	1	95.652
+75	-3	42	-4	Default Mode	1	85.507
+76	-3	35	39	Default Mode	1	88.406
+77	-3	36	20	Salience	8	94.203
+78	5	60	3	Default Mode	1	100
+79	5	-60	33	Default Mode	1	97.101
+80	5	48	21	Default Mode	1	97.101
+81	5	57	27	Default Mode	1	98.551
+82	7	-50	29	Default Mode	1	97.101
+83	5	48	9	Default Mode	1	88.406
+84	7	-55	16	Default Mode	1	92.754
+85	11	48	42	Default Mode	1	91.304
+86	11	24	60	Default Mode	1	92.754
+87	11	30	24	Salience	8	86.957
+88	20	33	42	Default Mode	1	94.203
+89	21	27	50	Default Mode	1	97.101
+90	26	-39	-11	Parieto-occipital	16	95.652
+91	44	-55	28	Default Mode	1	94.203
+92	49	-61	34	Default Mode	1	98.551
+93	62	-15	-15	Default Mode	1	97.101
+94	4	-27	30	Parieto-medial	15	97.101
+95	-41	-75	-12	Visual	2	98.551
+96	-40	-76	-2	Visual	2	94.203
+97	-38	-87	-9	Visual	2	98.551
+98	-31	-78	-15	Visual	2	100
+99	-27	-79	16	Visual	2	91.304
+100	-25	-89	0	Visual	2	100
+101	-23	-90	15	Visual	2	100
+102	-17	-68	3	Visual	2	100
+103	-16	-77	30	Visual	2	95.652
+104	-15	-53	-2	Visual	2	98.551
+105	-14	-72	-9	Visual	2	100
+106	-14	-90	27	Visual	2	100
+107	-8	-80	5	Visual	2	100
+108	-3	-81	18	Visual	2	100
+109	5	-75	21	Visual	2	97.101
+110	6	-81	4	Visual	2	100
+111	8	-72	9	Visual	2	100
+112	14	-87	33	Visual	2	100
+113	14	-77	28	Visual	2	98.551
+114	17	-48	-9	Visual	2	100
+115	19	-66	1	Visual	2	100
+116	19	-85	-4	Visual	2	100
+117	23	-87	21	Visual	2	100
+118	25	-79	-16	Visual	2	100
+119	26	-60	-9	Visual	2	100
+120	27	-77	23	Visual	2	98.551
+121	35	-84	11	Visual	2	98.551
+122	35	-81	0	Visual	2	100
+123	35	-73	13	Visual	2	91.304
+124	40	-66	-8	Visual	2	92.754
+125	41	-78	-12	Visual	2	98.551
+126	-49.5	-50	39	Fronto-parietal	3	88.406
+127	-41	-56	41	Fronto-parietal	3	91.304
+128	-41	20	31	Fronto-parietal	3	85.507
+129	-40	40	2	Fronto-parietal	3	88.406
+130	-4	21	49	Fronto-parietal	3	84.058
+131	35	-66	38	Fronto-parietal	3	85.507
+132	40.5	37	20	Fronto-parietal	3	82.609
+133	41	-55	45	Fronto-parietal	3	92.754
+134	41	43	4	Fronto-parietal	3	91.304
+135	45	22	30	Fronto-parietal	3	85.507
+136	46	-45	44	Fronto-parietal	3	94.203
+137	-34	16	6	Cingulo-opercular	9	89.855
+138	-2	10	45	Cingulo-opercular	9	95.652
+139	4	15	39	Cingulo-opercular	9	100
+140	4.5	17	30	Cingulo-opercular	9	89.855
+141	32	12	-6	Salience	8	89.855
+142	34	17	7	Cingulo-opercular	9	84.058
+143	-53	-38	12	Auditory	12	88.406
+144	-50	21	2	Ventral Attention	7	84.058
+145	49	-32	9	Auditory	12	95.652
+146	49	-31	-2	Ventral Attention	7	84.058
+147	-43	-60	-10	Dorsal Attention	5	82.609
+148	-32	-48	44	Dorsal Attention	5	86.957
+149	-17	-60	60	Dorsal Attention	5	86.957
+150	11	-63	57	Dorsal Attention	5	97.101
+151	20	-66	48	Dorsal Attention	5	79.71
+152	23	-60	57	Dorsal Attention	5	82.609
+153	26	-9	54	Dorsal Attention	5	86.957
