@@ -55,7 +55,7 @@ ROI number	x	y	z	Net. Name	Net. WB Label	Peak Prob.
 54	55	-19	10	Auditory	12	86.957
 55	62	-36	24	Cingulo-opercular	9	94.203
 56	-65	-24	-15	Default Mode	1	85.507
-57	-47	-43	0	Ventral Attention	7	89.855
+57	-47	-43	0	Language	7	89.855
 58	-47	-61	18	Default Mode	1	94.203
 59	-43	-65	31	Default Mode	1	98.551
 60	-38	-75	39	Default Mode	1	98.551
@@ -142,9 +142,9 @@ ROI number	x	y	z	Net. Name	Net. WB Label	Peak Prob.
 141	32	12	-6	Salience	8	89.855
 142	34	17	7	Cingulo-opercular	9	84.058
 143	-53	-38	12	Auditory	12	88.406
-144	-50	21	2	Ventral Attention	7	84.058
+144	-50	21	2	Language	7	84.058
 145	49	-32	9	Auditory	12	95.652
-146	49	-31	-2	Ventral Attention	7	84.058
+146	49	-31	-2	Language	7	84.058
 147	-43	-60	-10	Dorsal Attention	5	82.609
 148	-32	-48	44	Dorsal Attention	5	86.957
 149	-17	-60	60	Dorsal Attention	5	86.957

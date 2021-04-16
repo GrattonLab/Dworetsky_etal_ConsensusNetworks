@@ -1,0 +1,154 @@
+ROI number	x	y	z	Net. Name	Net. WB Label	Peak Prob.
+1	-57.96	-22.53	-14.92	Default Mode	1	84.058
+2	-31.13	-9.99	-36.32	Medial Temporal	14	92.754
+3	-24.66	-94.69	-12.51	Visual	2	92.754
+4	-12.08	-94.56	-12.8	Visual	2	95.652
+5	7.98	-91.08	-7.1	Visual	2	95.652
+6	17.44	-28.06	-17.32	Parieto-occipital	16	89.855
+7	20.41	-91.06	-13.71	Visual	2	92.754
+8	32.85	-12.41	-34.41	Medial Temporal	14	89.855
+9	-50.38	-22.5	43.03	Somatomotor- Dorsal	10	89.855
+10	-45.09	-28.7	46.44	Somatomotor- Dorsal	10	95.652
+11	-39.63	-19.04	54.21	Somatomotor- Dorsal	10	100
+12	-38.28	-27.17	69.45	Somatomotor- Dorsal	10	98.551
+13	-38.24	-14.57	68.72	Somatomotor- Dorsal	10	95.652
+14	-29.1	-43	60.66	Somatomotor- Dorsal	10	88.406
+15	-22.5	-30.1	72.44	Somatomotor- Dorsal	10	100
+16	-20.66	-31.33	60.85	Somatomotor- Dorsal	10	98.551
+17	-16.25	-45.8	73.22	Somatomotor- Dorsal	10	92.754
+18	-12.96	-17.34	74.66	Somatomotor- Dorsal	10	98.551
+19	-6.9	-20.59	65.21	Somatomotor- Dorsal	10	100
+20	-6.79	-33.09	72.27	Somatomotor- Dorsal	10	97.101
+21	0.13	-14.47	49.9	Somatomotor- Dorsal	10	100
+22	2.4	-27.94	60.15	Somatomotor- Dorsal	10	100
+23	3.45	-17.44	58.45	Somatomotor- Dorsal	10	100
+24	12.64	-1.8	44.66	Somatomotor- Dorsal	10	89.855
+25	9.94	-45.52	72.63	Somatomotor- Dorsal	10	89.855
+26	10.09	-17.1	74.14	Somatomotor- Dorsal	10	97.101
+27	13.19	-32.82	74.98	Somatomotor- Dorsal	10	98.551
+28	20.21	-28.8	59.8	Somatomotor- Dorsal	10	97.101
+29	22.45	-42.29	68.99	Somatomotor- Dorsal	10	89.855
+30	28.88	-16.95	70.55	Somatomotor- Dorsal	10	100
+31	28.54	-39.24	59.17	Somatomotor- Dorsal	10	97.101
+32	37.74	-17.3	45.01	Somatomotor- Dorsal	10	98.551
+33	42.14	-20.24	54.59	Somatomotor- Dorsal	10	100
+34	50.31	-20.32	44.91	Somatomotor- Dorsal	10	94.203
+35	-52.84	-10.23	24.41	Somatomotor- Lateral	11	91.304
+36	-49.47	-11.06	34.95	Somatomotor- Lateral	11	88.406
+37	51.14	-5.8	32.42	Somatomotor- Lateral	11	86.957
+38	65.64	-7.88	24.83	Somatomotor- Lateral	11	88.406
+39	-51.26	8.26	-2.06	Cingulo-opercular	9	98.551
+40	-44.75	3.26	8.65	Cingulo-opercular	9	92.754
+41	-34.37	3.29	4.19	Cingulo-opercular	9	98.551
+42	-5.33	17.8	34.41	Cingulo-opercular	9	98.551
+43	-2.87	5.53	53.03	Cingulo-opercular	9	92.754
+44	6.52	7.69	50.58	Cingulo-opercular	9	91.304
+45	19.33	-10.86	64.06	Somatomotor- Dorsal	10	91.304
+46	35.83	10.32	1.18	Cingulo-opercular	9	100
+47	36.74	3.93	-3.75	Cingulo-opercular	9	97.101
+48	49.4	8.32	-1.12	Cingulo-opercular	9	100
+49	-60.55	-25.28	10.66	Auditory	12	79.71
+50	-49.14	-26.3	5.18	Auditory	12	100
+51	-38.43	-33.34	16.98	Auditory	12	89.855
+52	-30.12	-27.02	12.2	Auditory	12	89.855
+53	31.74	-29.48	13.1	Auditory	12	89.855
+54	57.88	-15.62	7.49	Auditory	12	86.957
+55	65.5	-33.15	23.13	Cingulo-opercular	9	94.203
+56	-68.47	-22.66	-15.74	Default Mode	1	85.507
+57	-49.3	-42.15	0.83	Language	7	89.855
+58	-48.93	-60.73	20.92	Default Mode	1	94.203
+59	-44.45	-64.64	34.78	Default Mode	1	98.551
+60	-39.05	-74.95	43.72	Default Mode	1	98.551
+61	-35.36	19.86	50.8	Default Mode	1	86.957
+62	-33.93	-38.06	-15.6	Parieto-occipital	16	91.304
+63	-26.44	-39.95	-8.26	Parieto-occipital	16	95.652
+64	-19.78	45.07	39.48	Default Mode	1	95.652
+65	-20.16	63.65	19.39	Default Mode	1	89.855
+66	-16.4	28.52	53.05	Default Mode	1	89.855
+67	-12.53	-39.59	4.09	Parieto-occipital	16	88.406
+68	-8.15	-56.17	15.53	Default Mode	1	95.652
+69	-10.09	39.09	52.29	Default Mode	1	98.551
+70	-10.33	54.63	38.71	Default Mode	1	94.203
+71	-7.55	48.08	23.18	Default Mode	1	94.203
+72	-6.84	-54.9	27.05	Default Mode	1	100
+73	-3.9	50.85	-1.36	Default Mode	1	85.507
+74	-2.95	-51.95	13.05	Default Mode	1	95.652
+75	-3.05	47.56	-9.64	Default Mode	1	85.507
+76	-2.05	41	36.16	Default Mode	1	88.406
+77	-2.5	41.7	16.05	Salience	8	94.203
+78	5.55	66.69	-3.55	Default Mode	1	100
+79	5.91	-58.82	35.45	Default Mode	1	97.101
+80	5.94	54.42	16.18	Default Mode	1	97.101
+81	6.11	63.98	21.96	Default Mode	1	98.551
+82	7.94	-48.37	30.57	Default Mode	1	97.101
+83	5.66	54.2	3.52	Default Mode	1	88.406
+84	7.62	-53.86	17.16	Default Mode	1	92.754
+85	12.73	54.87	38.19	Default Mode	1	91.304
+86	13.08	29.99	58.65	Default Mode	1	92.754
+87	12.25	35.63	20.3	Salience	8	86.957
+88	22.11	39.21	38.9	Default Mode	1	94.203
+89	23.33	33.07	47.68	Default Mode	1	97.101
+90	26.94	-37.34	-12.76	Parieto-occipital	16	95.652
+91	46.68	-53.23	28.94	Default Mode	1	94.203
+92	52.04	-59.37	35.52	Default Mode	1	98.551
+93	64.64	-11.8	-19.3	Default Mode	1	97.101
+94	4.89	-24.22	30.29	Parieto-medial	15	97.101
+95	-43.39	-75.92	-10.02	Visual	2	98.551
+96	-42.11	-76.78	0.57	Visual	2	94.203
+97	-40.21	-88.44	-6.19	Visual	2	98.551
+98	-33	-79.02	-13.24	Visual	2	100
+99	-28.07	-79.45	19.43	Visual	2	91.304
+100	-26.39	-90.23	3.12	Visual	2	100
+101	-23.94	-90.98	18.96	Visual	2	100
+102	-17.87	-68.03	4.81	Visual	2	100
+103	-16.21	-76.97	33.82	Visual	2	95.652
+104	-15.85	-52.34	-1.43	Visual	2	98.551
+105	-15.02	-72.42	-7.68	Visual	2	100
+106	-14.22	-90.66	31.4	Visual	2	100
+107	-8.43	-80.5	7.44	Visual	2	100
+108	-2.88	-81.25	21.1	Visual	2	100
+109	5.59	-74.8	23.71	Visual	2	97.101
+110	6.21	-81.41	6.11	Visual	2	100
+111	8.45	-71.84	10.79	Visual	2	100
+112	15.27	-87.09	36.89	Visual	2	100
+113	15.18	-76.68	31	Visual	2	98.551
+114	17.53	-46.86	-9.88	Visual	2	100
+115	19.81	-65.56	1.72	Visual	2	100
+116	19.64	-85.62	-2.39	Visual	2	100
+117	24.41	-87.21	24.01	Visual	2	100
+118	25.66	-79.47	-15.56	Visual	2	100
+119	26.93	-59.37	-9.36	Visual	2	100
+120	28.68	-76.62	25.42	Visual	2	98.551
+121	36.76	-84.11	12.99	Visual	2	98.551
+122	36.51	-81.16	1.2	Visual	2	100
+123	36.84	-72.52	14.43	Visual	2	91.304
+124	41.6	-65.5	-8.27	Visual	2	92.754
+125	42.52	-78.17	-11.78	Visual	2	98.551
+126	-51.02	-48.81	42.46	Fronto-parietal	3	88.406
+127	-42.09	-54.98	44.74	Fronto-parietal	3	91.304
+128	-42.1	24.68	29.53	Fronto-parietal	3	85.507
+129	-41.68	45.16	-2.31	Fronto-parietal	3	88.406
+130	-2.9	26.47	47.59	Fronto-parietal	3	84.058
+131	37.45	-64.7	40.38	Fronto-parietal	3	85.507
+132	43.09	43.23	14.95	Fronto-parietal	3	82.609
+133	43.93	-52.95	46.95	Fronto-parietal	3	92.754
+134	43.25	49.25	-2.31	Fronto-parietal	3	91.304
+135	47.99	27.71	26.32	Fronto-parietal	3	85.507
+136	49.18	-42.41	45.16	Fronto-parietal	3	94.203
+137	-35.37	20.09	3.24	Cingulo-opercular	9	89.855
+138	-0.94	14.86	43.99	Cingulo-opercular	9	95.652
+139	5.22	20.07	37.21	Cingulo-opercular	9	100
+140	5.54	22.01	27.58	Cingulo-opercular	9	89.855
+141	33.49	16.4	-10.75	Salience	8	89.855
+142	35.91	21.91	2.62	Cingulo-opercular	9	84.058
+143	-55.29	-36.74	13.32	Auditory	12	88.406
+144	-52.22	25.09	-0.91	Language	7	84.058
+145	51.53	-29.36	7.37	Auditory	12	95.652
+146	51.28	-28.52	-4.3	Language	7	84.058
+147	-45.4	-60.15	-8.78	Dorsal Attention	5	82.609
+148	-32.56	-46.42	47.2	Dorsal Attention	5	86.957
+149	-16.5	-58.57	64.46	Dorsal Attention	5	86.957
+150	12.76	-61.47	60.81	Dorsal Attention	5	97.101
+151	21.97	-64.68	51.29	Dorsal Attention	5	79.71
+152	25.34	-58.18	60.34	Dorsal Attention	5	82.609
+153	28.56	-4.62	53.99	Dorsal Attention	5	86.957
